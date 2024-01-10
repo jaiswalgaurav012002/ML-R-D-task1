@@ -1,2 +1,1 @@
-# ML-R-D-task1
-the research work is based upon a detailed comparitive analysis of different ML algorithms......
+This particular research work is a raw research outcome for the comparitiv ananlysis of different Ml algorithms and checking there accuracy based on different types of performance and evaluation metrics and further applying different set of features, boosting and other machine learning features on them.
